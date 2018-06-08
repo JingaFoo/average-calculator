@@ -1,0 +1,13 @@
+D:\Projects\C# Learn\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+D:\Projects\C# Learn\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+D:\Projects\C# Learn\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+D:\Projects\C# Learn\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\C# Learn\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+D:\Projects\C# Learn\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.pdb
+D:\Projects\C# Learn\UnitTesting\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+D:\Projects\C# Learn\UnitTesting\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+D:\Projects\C# Learn\UnitTesting\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+D:\Projects\C# Learn\UnitTesting\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csprojAssemblyReference.cache
+D:\Projects\C# Learn\UnitTesting\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\C# Learn\UnitTesting\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+D:\Projects\C# Learn\UnitTesting\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.pdb
